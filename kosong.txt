@@ -1,0 +1,3 @@
+konfig.txt
+data/
+*.exe
